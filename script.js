@@ -1,9 +1,9 @@
 let users = [
     {
         id: 0,
-        photo: "",
+        photo: "https://64.media.tumblr.com/2fcb8844ad62da0427be5c800a4fe023/cdd08bbabb95a36d-24/s540x810/1cee8722191accfd5e9cea07baa2f455f789f15c.jpg",
         username: "odd3ye",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum possimus voluptatibus veritatis doloremque at officiis cum deserunt, maxime minima dolore velit ducimus dicta?",
+        bio: "Sheeesh",
         fields: ["Editor"],
         edits: [
             //EDIIIIIITS
